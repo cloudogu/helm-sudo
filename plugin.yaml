@@ -1,0 +1,11 @@
+name: "sudo"
+version: "0.0.1"
+usage: "Helm sudo context switcher"
+description: |-
+  "Helm sudo plugin that allows the change of the active namespace within the sudo-context."
+command: "$HELM_PLUGINS/helm-sudo/run.sh"
+useTunnel: false
+ignoreFlags: false
+hooks:
+  install: "$HELM_PLUGINS/helm-sudo/install.sh"
+  update: "$HELM_PLUGINS/helm-sudo/install.sh"

@@ -1,8 +1,8 @@
 name: "sudo"
 version: "0.0.1"
-usage: "Helm sudo context switcher"
+usage: "Helm sudo impersonate admin"
 description: |-
-  "Helm sudo plugin that allows the change of the active namespace within the sudo-context."
+  "Helm plugin that uses impersonating to execute helm-commands on clusters within the admin context"
 command: "$HELM_PLUGINS/helm-sudo/run.sh"
 useTunnel: false
 ignoreFlags: false

@@ -37,5 +37,5 @@ Flags will just be passed along to the command you are calling.
 ## Configuration
 
 | ENV_VAR  	|   Default	|   Description	|   
-|---	|---	|---	|---	|---	|
+|---	|---	|---	|
 |HELM_SUDO_PROMPT|   	false |   If set to true you will be prompted to acknowledge the usage of the helm-command on the current context as admin	|

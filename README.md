@@ -39,3 +39,8 @@ Flags will just be passed along to the command you are calling.
 | ENV_VAR  	|   Default	|   Description	|   
 |---	|---	|---	|
 |HELM_SUDO_PROMPT|   	false |   If set to true you will be prompted to acknowledge the usage of the helm-command on the current context as admin	|
+
+
+## Similar projects
+* [cloudogu/kubectl-sudo](https://github.com/postfinance/kubectl-sudo): Same functionality as helm-sudo for kubectl
+* [cloudogu/sudo-kubeconfig](https://github.com/cloudogu/sudo-kubeconfig): Create a sudo kubeconfig for your current kubernetes context.

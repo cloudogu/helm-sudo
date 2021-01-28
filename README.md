@@ -4,10 +4,13 @@ A [helm](https://helm.sh) plugin that uses impersonating to execute helm-command
 
 ## Installation
 
-Install the plugin using the built-in plugin manager:
+Install the plugin using the built-in plugin manager (see [releases](https://github.com/cloudogu/helm-sudo/releases)  for latest version):
 
 ```
+# Installs latest commit
 helm plugin install https://github.com/cloudogu/helm-sudo
+# Installs deterministic version
+helm plugin install  https://github.com/cloudogu/helm-sudo --version=0.0.1
 ``` 
 
 ---

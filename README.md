@@ -45,5 +45,5 @@ Flags will just be passed along to the command you are calling.
 
 
 ## Similar projects
-* [cloudogu/kubectl-sudo](https://github.com/postfinance/kubectl-sudo): Same functionality as helm-sudo for kubectl
+* [postfinance/kubectl-sudo](https://github.com/postfinance/kubectl-sudo): Same functionality as helm-sudo for kubectl
 * [cloudogu/sudo-kubeconfig](https://github.com/cloudogu/sudo-kubeconfig): Create a sudo kubeconfig for your current kubernetes context.

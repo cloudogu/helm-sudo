@@ -35,6 +35,8 @@ Flags will just be passed along to the command you are calling.
 
 **CAUTION: Due to the usage of this plugin, you will execute the helm command as admin on your cluster!**
 
+Syntax completion works with helm version 3.8.0 and up.
+
 ---
 
 ## Configuration

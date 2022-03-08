@@ -2,6 +2,10 @@
 
 A [helm](https://helm.sh) plugin that uses impersonating to execute helm-commands on clusters within the admin context.
 
+<img src="https://raw.githubusercontent.com/wiki/cloudogu/helm-sudo/helm-sudo-demo.gif" alt="Demo gif" width="618" height="286"> 
+
+
+
 For questions or suggestions you are welcome to join us at our myCloudogu [community forum](https://community.cloudogu.com/c/kubernetes/54).
 
 [![Discuss it on myCloudogu](https://static.cloudogu.com/static/images/discuss-it.png)](https://community.cloudogu.com/c/kubernetes/54)

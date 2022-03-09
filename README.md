@@ -18,7 +18,7 @@ Install the plugin using the built-in plugin manager (see [releases](https://git
 # Installs latest commit
 helm plugin install https://github.com/cloudogu/helm-sudo
 # Installs deterministic version
-helm plugin install  https://github.com/cloudogu/helm-sudo --version=0.0.1
+helm plugin install  https://github.com/cloudogu/helm-sudo --version=0.0.2
 ``` 
 
 ---
